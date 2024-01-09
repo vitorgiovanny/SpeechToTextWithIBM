@@ -14,3 +14,9 @@ O projeto é extremamente simples, tendo como único objetivo demonstrar a imple
 ## INTRODUÇÃO AO SPEECH TO TEXT com IBM WATSON
 A documentação da IBM descreve melhor a introdução do serviço speech to text, segue o link.
 [Link do serviço](https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted&locale=pt-BR)
+
+### Configuração do Appsettings
+
+| key          | url_speech_to_text_ibm |
+| ------------ | -----------            |
+| SUA_API_KEY  | URL_DO_SERVICO         |
