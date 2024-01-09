@@ -1,4 +1,6 @@
 # Speech To Text with IBM WATSON
+### Estudando os serviços da IBM Watson...
+
 Este repositório integra o serviço IBM WATSON - Speech to Text, uma poderosa ferramenta para transcrição de áudio para texto. Foi projetado como uma solução eficiente para implementar o serviço da IBM no ambiente .NET Core Console.
 
 O projeto é extremamente simples, tendo como único objetivo demonstrar a implementação do serviço Speech to Text.
